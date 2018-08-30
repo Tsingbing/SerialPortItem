@@ -1,0 +1,41 @@
+﻿  Moc'ing masterthread.h...
+  Moc'ing serialportitem.h...
+  Moc'ing serialportitem_plugin.h...
+  Moc'ing structobject.h...
+  Generate moc_predefs.h
+  masterthread.cpp
+  moc_masterthread.cpp
+  moc_serialportitem.cpp
+  moc_serialportitem_plugin.cpp
+  moc_structobject.cpp
+  serialportitem.cpp
+serialportitem.cpp(38): warning C4100: “s”: 未引用的形参
+serialportitem.cpp(42): warning C4100: “s”: 未引用的形参
+serialportitem.cpp(240): warning C4100: “json”: 未引用的形参
+serialportitem.cpp(282): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(284): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(290): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(300): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(302): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(308): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(295): warning C4100: “c”: 未引用的形参
+serialportitem.cpp(295): warning C4100: “b”: 未引用的形参
+serialportitem.cpp(295): warning C4100: “a”: 未引用的形参
+serialportitem.cpp(319): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(321): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(327): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(340): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(342): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(348): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(332): warning C4100: “c”: 未引用的形参
+serialportitem.cpp(358): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(360): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(366): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(376): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(378): warning C4309: “参数”: 截断常量值
+serialportitem.cpp(384): warning C4309: “参数”: 截断常量值
+  serialportitem_plugin.cpp
+  structobject.cpp
+  正在生成代码...
+    正在创建库 release\\SerialPortItem.lib 和对象 release\\SerialPortItem.exp
+  serialportitem.vcxproj -> E:\01_RobotSea\01_Pro\01_SelfPlugins\SerialPortItem\release\SerialPortItem.dll
